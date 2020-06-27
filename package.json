@@ -1,0 +1,12 @@
+{
+  "name": "com.sample",
+  "version": "1.0.0",
+  "description": "this is a just a sample",
+  "main": "run.js",
+  "scripts": {
+    "start": "node run.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vijay",
+  "license": "ISC"
+}
